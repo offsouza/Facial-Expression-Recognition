@@ -25,6 +25,6 @@ Modelo de Deep Learning para classificação de emoções em faces. Neste reposi
 
 <p align="center">
   
-  <img  src="https://github.com/offsouza/parking_lot_opencv/blob/master/video.gif">
+  <img  src="https://github.com/offsouza/Facial-Expression-Recognition/blob/master/video11.gif">
   
 </p>
